@@ -35,4 +35,8 @@ h3 {
 
 h1,h2,h3 {
 	text-shadow: #AAA 1px 1px 1px;
+	padding-bottom: 10px;
+}
+p {
+	padding:5px 0px;
 }
