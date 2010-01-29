@@ -6,6 +6,8 @@ title: Projects
 First of all, this project page is a project in itself. I'll add stuff here and start dressing it up a bit. But here my raw nerdiness is on display.
 
 ## Public Sites
+* [BulletinApp.com](http://BulletinApp.com) - This site lets churches have their own iPhone App. It's written in Django and use jQTouch to create a nice web-based smartphone front-end.
+
 * [RecipeBin](http://www.RecipeBinApp.com) - This project lets you store your recipes in the cloud. It runs on Google App Engine and doesn't require any signup. Just log in with your Google account and start adding recipes. For a full run-down of the technology used and some of the reasons for building it [read my blog post about it](http://joreteg.com/post/236837591/recipebin-new-iphone-recipe-app).
 
 ## jQuery Plugins
