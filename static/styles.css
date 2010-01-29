@@ -1,7 +1,6 @@
 html {
 	background-color: #444;
 	color: #333;
-	padding-bottom: 25px;
 }
 
 body {
@@ -9,12 +8,13 @@ body {
 	line-height: 1.1;
 	font-size: 14px;
 	width: 960px;
-	margin: 20px 0px 40px -490px;
+	margin: 40px 0px 40px -490px;
 	float: left;
 	background-color: #fff;
 	padding: 15px;
 	position: relative;
 	left: 50%;
+	bottom: 25px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-webkit-box-shadow: 3px 3px 5px #333;
