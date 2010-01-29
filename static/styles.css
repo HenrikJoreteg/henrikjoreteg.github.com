@@ -52,6 +52,13 @@ a:hover {
     color: background-color: rgba(143,177,240, .8);
 }
 
+/* this is for code boxes */
+div.highlight {
+    padding: 15px;
+    background-color: #DDD;
+    background-color: rgba(143,177,240, .8);
+}
+
 code {
     font-family: "Courier New", Courier, monospace
 }
