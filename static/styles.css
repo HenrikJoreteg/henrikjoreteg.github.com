@@ -25,13 +25,13 @@ h1,h2,h3 {
 	padding: 0;
 	line-height: .7;
 	padding: 15px 0 4px;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
 
 h1 {
 	font-size: 28px;
 	font-weight: bold;
-    padding-top: 0;
+    padding-top: 5px;
 }
 
 h2 {
@@ -49,11 +49,11 @@ p {
 }
 
 a {
-    color: background-color: rgb(143,177,240);
+    color: rgb(143,177,240);
 }
 
 a:hover {
-    color: background-color: rgba(143,177,240, .8);
+    color: rgba(143,177,240, .8);
 }
 
 /* this is for code boxes */
