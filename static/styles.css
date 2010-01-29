@@ -24,7 +24,8 @@ h1,h2,h3 {
 	border-bottom: 1px solid #ddd;
 	padding: 0;
 	line-height: .7;
-	padding: 10 0 4;
+	padding: 15px 0 4px;
+	margin-bottom: 10px;
 }
 
 h1 {
