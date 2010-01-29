@@ -60,6 +60,8 @@ div.highlight {
     background-color: #DDD;
     background-color: rgba(163,207,255, .8);
     border: 1px solid #AAA;
+    -moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
 }
 
 code {
