@@ -44,6 +44,14 @@ p {
 	padding:5px 0px;
 }
 
+a {
+    color: background-color: rgb(143,177,240);
+}
+
+a:hover {
+    color: background-color: rgba(143,177,240, .8);
+}
+
 code {
     background-color: #ddd;
     background-color: rgba(143,177,240, .8);
