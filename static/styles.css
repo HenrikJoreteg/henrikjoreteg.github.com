@@ -23,7 +23,6 @@ h1,h2,h3 {
 	text-shadow: #AAA 1px 1px 1px;
 	border-bottom: 1px solid #ddd;
 	padding: 0;
-	margin: 15px 0 5px;
 	line-height: .7;
 }
 
@@ -31,6 +30,7 @@ h1 {
 	font-size: 28px;
 	font-weight: bold;
     padding: 0px 0px 15px;
+    
 }
 
 h2 {
