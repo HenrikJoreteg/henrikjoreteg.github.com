@@ -3,7 +3,6 @@ layout: default
 title: Projects
 ---
 #Henrik's Projects
-First of all, this project page is a project in itself. I'll add stuff here and start dressing it up a bit. But here my raw nerdiness is on display.
 
 ## Public Sites
 * [BulletinApp.com](http://BulletinApp.com) - This site lets churches have their own iPhone App. It's written in Django and use jQTouch to create a nice web-based smartphone front-end.
