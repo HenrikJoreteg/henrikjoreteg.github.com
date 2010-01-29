@@ -43,3 +43,10 @@ h3 {
 p {
 	padding:5px 0px;
 }
+
+code {
+    background-color: #ddd;
+    background-color: rgba(143,177,240, .8);
+    padding: 15px;
+    font-family: "Courier New", Courier, monospace
+}
