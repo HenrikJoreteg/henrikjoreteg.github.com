@@ -12,7 +12,7 @@ title: Projects
 ## jQuery Plugins
 * [jQuery Sliding Message Plugin](/jquery-sliding-message) - This plugin provides a cool way to temporarily display messages to the user. They slide into view from the top or bottom of the screen and then slide out of view and you can easily customize it for whatever you want.
 
-* [jQuery Magic Labels Plugin](/jquery-magic-labels) - This is a plugin makes it easy to create text inputs with placeholder text instead of labels. It does this by taking the text from the associated `&lt;label&gt;` tags and displaying it in your `&lt;input type="text"&gt;` fields and `&lt;textarea&gt;`'s. It keeps your markup semantic and follows progressive enhancement priciples while giving you the benefit of saving space for small forms etc.
+* [jQuery Magic Labels Plugin](/jquery-magic-labels) - This is a plugin makes it easy to create text inputs with placeholder text instead of labels. It does this by taking the text from the associated `<label>` tags and displaying it in your `<input type="text">` fields and `<textarea>`'s. It keeps your markup semantic and follows progressive enhancement priciples while giving you the benefit of saving space for small forms etc.
 
 ## Small Experiments Etc.
 * [Polar Clock written in JavaScript using Canvas](/Polar-Clock-Canvas) - I wrote an imitation of my favorite screen saver the Polar Clock by Pixel Breaker using JavaScript and the canvas tag.
